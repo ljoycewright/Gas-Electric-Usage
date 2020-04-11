@@ -27,7 +27,7 @@ This project will display Gas and Electric utilization over a period of 3 years.
 
 ## Milestones 
 
-- Import CSV as data source
+- Import CSV as datasource with Jupyter Notebook
 - Created database with SQLite3
 - Cleanup and aggregate data using SQLite3 and Pandas
 - Use Matplotlib to visualize data
