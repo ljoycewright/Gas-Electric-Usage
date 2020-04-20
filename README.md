@@ -17,7 +17,7 @@ This project will display Gas and Electric utilization over a period of 3 years.
 - [x] Import csv file "GasElectricUsage"
 - [x] Create database using SQLite3
 - [x] Cleanup and Aggregrate data
-- [ ] Display graph of data using Matplotlib
+- [x] Display graph of data using Matplotlib
 
 
 ## Features: 
