@@ -29,7 +29,7 @@ This project will display Gas and Electric utilization over a period of 3 years.
 
 ## Milestones 
 
-- Import CSV file as datasource with Jupyter Notebook.
-- Create database from CSV file with SQLite3.
-- Cleanup and aggregate data using SQLite3 and Pandas.
-- Visualize data in line, bar and scatter charts with Matplotlib.
+- Import CSV file as datasource with Jupyter Notebook
+- Create database from CSV file with SQLite3
+- Cleanup and aggregate data using SQLite3 and Pandas
+- Visualize data in line, bar and scatter charts with Matplotlib
