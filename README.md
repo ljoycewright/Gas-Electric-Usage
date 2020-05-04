@@ -1,7 +1,8 @@
 # Gas-Electric-Usage
 
 ## Overview: 
-This project will display Gas and Electric utilization over a period of 3 years. Database creation of CSV file with cleanup and aggregation of data. Data visualization of usage, billed amount and average temperature of Gas and Electric with Matplotlib.
+
+This project will display Gas and Electric utilization over a period of 3 years that includes amount, usage, and average temperature.  Database creation of imported csv file with data cleanup and aggregation using Pandas and SQLite3. Data visualization with line and scatter charts utilizing Matplotlib.
 
 
 ## Technical summary:
@@ -32,4 +33,4 @@ This project will display Gas and Electric utilization over a period of 3 years.
 - Import CSV file as datasource with Jupyter Notebook
 - Create database from CSV file with SQLite3
 - Cleanup and aggregate data using SQLite3 and Pandas
-- Visualize data in line, bar and scatter charts with Matplotlib
+- Visualize data in line and scatter charts utilizing Matplotlib
